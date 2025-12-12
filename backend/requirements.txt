@@ -1,0 +1,9 @@
+
+uvicorn[standard]
+pypdf
+chromadb
+fastapi
+sentence-transformers
+ollama
+python-multipart
+python-dotenv
