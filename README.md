@@ -1,7 +1,7 @@
-# PDFMind
+# DocuraAI
 A web app where users can, upload multiple PDF files.  Ask questions about all PDFs combined  get AI answers, citations, summaries, tables, insights, etc.  Do semantic search inside all PDFs,  optionally, save chat history, share links, export answers.
 
-# PDFMind — Zero-Cost Multi-PDF Chat App Chat with Multiple PDFs Locally using FastAPI · ChromaDB · Sentence-Transformers · Ollama · Next.js
+# DocuraAI — Zero-Cost Multi-PDF Chat App Chat with Multiple PDFs Locally using FastAPI · ChromaDB · Sentence-Transformers · Ollama · Next.js
 
 DocuraAI is a fully local, privacy-first, zero-costPDF AI assistant.Upload multiple PDFs → ask natural language questions → get AI answers *with citations*, powered entirely by local open-source models.No OpenAI fees, no cloud vector DB, no GPU required.
 
